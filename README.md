@@ -6,13 +6,13 @@ pip install git
 git clone https://github.com/bangpateng/push-dc
 ```
 ```
-pkg install python
+pip install python
 ```
 ```
 apt upgrade && update
 ```
 ```
-pkg install openssl
+pip install openssl
 ```
 ```
 pip install requests colorama
