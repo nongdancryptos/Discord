@@ -3,13 +3,13 @@
 pip install git
 ```
 ```
-git clone https://github.com/bangpateng/push-dc
+git clone https://github.com/nongdancryptos/Discord
 ```
 ```
 pip install python
 ```
 ```
-apt upgrade && update
+apt upgrade & update
 ```
 ```
 pip install openssl
