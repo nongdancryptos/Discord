@@ -1,6 +1,6 @@
 # push-level-discord Intsal di Termux Android
 ```
-pkg install git
+pip install git
 ```
 ```
 git clone https://github.com/bangpateng/push-dc
