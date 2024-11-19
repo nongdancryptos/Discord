@@ -1,4 +1,4 @@
-# push-level-discord Intsal di Termux Android
+# push-level-discord Install
 ```
 pip install git
 ```
@@ -23,4 +23,4 @@ cd push-dc
 ```
 python main.py
 ```
-Created : bgpateng
+Created : x.com/OnTopAirdrop
