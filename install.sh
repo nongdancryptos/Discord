@@ -16,7 +16,7 @@ apt update && apt upgrade -y
 pkg install openssl -y
 
 # Install Python packages
-pip install requests colorama
+pip install requests colorama openai
 
 # Change directory to the cloned repository
 cd push-dc
